@@ -51,9 +51,6 @@ this.usuarioLogin.Foto
     }
   }
   )
-
-
-  
  }
 
 

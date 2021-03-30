@@ -11,7 +11,7 @@ const routes: Routes = [
 
   { path: 'entrar', component: EntrarComponent },
   { path: 'cadastrar', component: CadastarComponent },
-  { path: 'inicio ', component: InicioComponent }
+  { path: 'inicio', component: InicioComponent }
 
 
 ];
